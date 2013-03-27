@@ -1,0 +1,5 @@
+/node_modules
+components
+.monitor
+*.css
+dump.rdb
